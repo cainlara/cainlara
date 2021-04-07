@@ -2,7 +2,7 @@
 
 ## About me
 
-## Tech Stack
+## Tech Stack & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=FFF&style=ShieldStyle" />
@@ -26,6 +26,10 @@
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=FFF&style=ShieldStyle" />
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=FFF&style=ShieldStyle" />
   <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=FFF&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=FFF&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=FFF&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?logo=eclipseide&logoColor=FFF&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=FFF&style=ShieldStyle" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=FFF&style=ShieldStyle" />
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=FFF&style=ShieldStyle" />
   <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=FFF&style=ShieldStyle" />
