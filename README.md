@@ -1,10 +1,6 @@
 # Jose Lara
 
-## Preferred Tech
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cainlara"
-/>
+## About me
 
 ## Tech Stack
 
@@ -38,6 +34,15 @@
 ## Status
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cainlara)](https://github.com/anuraghazra/github-readme-stats)
+
+## Talk to me !
+
+<p>
+  <a href="https://twitter.com/cainlara">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=ShieldStyle" />
+  </a>
+  <a href="https://www.linkedin.com/in/jalv84/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=ShieldStyle" /></a>
+</p>
 
 <!--
 **cainlara/cainlara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
