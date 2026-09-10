@@ -28,7 +28,6 @@ Senior software professional with nearly 20 years of experience delivering techn
 ![Couchbase](https://img.shields.io/badge/Couchbase-%23EA2328.svg?style=for-the-badge&logo=couchbase&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4E96D2?style=for-the-badge&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMTAgNjQiPjxnIGZpbGw9IiNmZmYiPjxwYXRoIGQ9Ik04IDQzYzE0IDEwIDMxIDE1IDQ4IDE1IDE4IDAgMzQtNSA0Ny0xNS0xNCA2LTI5IDktNDUgOS0xOCAwLTM1LTMtNTAtOXoiLz48cGF0aCBkPSJNMTIgMjhjMi05IDEwLTE0IDE5LTE0IDYgMCAxMSAyIDE1IDYgNC00IDktNiAxNS02IDkgMCAxNyA1IDE5IDE0bC03LTJjLTMtNS03LTctMTItNy02IDAtMTAgMy0xMyA4aC01Yy0zLTUtNy04LTEzLTgtNSAwLTkgMi0xMiA3eiIvPjxwYXRoIGQ9Ik0xOCAzNGM0IDMgOSA0IDE0IDRoMnY2aC0yYy03IDAtMTMtMi0xOC01eiIvPjxwYXRoIGQ9Ik05MiAzNGMtNCAzLTkgNC0xNCA0aC0ydjZoMmM3IDAgMTMtMiAxOC01eiIvPjwvZz48L3N2Zz4%3D)
-![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![G CLoud](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-1F9CEF.svg?style=for-the-badge&logo=vscode&logoColor=white)
