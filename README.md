@@ -45,8 +45,8 @@ Senior software professional with nearly 20 years of experience delivering techn
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=cainlara)](https://github.com/stats-organization/github-stats-extended)
 
 ## Hobbies and Interests
-- Sci-Fi Movies. Big Star Wars fan.
-- Car sports. 
+- Sci-Fi Movies. Big Star Wars fan. 
+- F1 mostly, but any motor racing sport entertains me. 
 - Some anime, not an otaku, but I enjoy the most popular productions.
 
 ## Talk to me !
